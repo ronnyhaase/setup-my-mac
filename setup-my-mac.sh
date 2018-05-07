@@ -24,6 +24,8 @@ brew cask install spotify
 brew cask install docker
 brew cask install skyfonts
 brew cask install libreoffice
+brew cask install tableplus
+brew cask install kitematic
 npm i -g trash-cli
 # VSCode
 rm ~/Library/Application\ Support/Code/User/settings.json
@@ -35,9 +37,12 @@ code --install-extension formulahendry.auto-rename-tag
 code --install-extension EditorConfig.editorconfig
 code --install-extension wix.vscode-import-cost
 code --install-extension jpoissonnier.vscode-styled-components
+code --install-extension PeterJausovec.vscode-docker
+code --install-extension mikestead.dotenv
 # Mac settings, see https://github.com/kevinSuttle/macOS-Defaults
-# Show file extensions in Finder
+# Show file extensions, and hiddenfiles in Finder
 defaults write NSGlobalDomain AppleShowAllExtensions -bool true
+defaults write com.apple.finder AppleShowAllFiles -bool true
 # Trackpad: enable tap to click for this user and for the login screen
 defaults write com.apple.driver.AppleBluetoothMultitouch.trackpad Clicking -bool true
 defaults -currentHost write NSGlobalDomain com.apple.mouse.tapBehavior -int 1
@@ -82,6 +87,8 @@ done
 # Manually:
 #   VPN Unlimited
 #   XCode
+# Github:
+#   Generate and add SSH keys, consider to delete old
 #
 # SkyFont fonts:
 #   Source Code Pro
