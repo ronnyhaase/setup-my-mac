@@ -11,6 +11,7 @@ brew install httpie
 brew install node
 brew install wget
 brew install yarn
+brew install watchman
 brew cask install google-chrome
 brew cask install spectacle
 brew cask install iterm2
