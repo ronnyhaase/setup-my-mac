@@ -93,7 +93,10 @@ done
 #   Generate and add SSH keys, consider to delete old
 #
 # SkyFont fonts:
+#   Merriweather
+#   Open Sans
 #   Source Code Pro
+#
 #
 # System preferences (some can be scripted in future as well)
 #   Enable firewall
