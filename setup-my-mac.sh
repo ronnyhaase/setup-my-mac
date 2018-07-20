@@ -9,6 +9,7 @@ brew tap caskroom/cask
 brew install git
 brew install httpie
 brew install node
+brew install watchman
 brew install wget
 brew install yarn
 brew cask install google-chrome
