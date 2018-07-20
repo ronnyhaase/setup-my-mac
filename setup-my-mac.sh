@@ -12,21 +12,26 @@ brew install node
 brew install watchman
 brew install wget
 brew install yarn
-brew cask install google-chrome
-brew cask install spectacle
-brew cask install iterm2
-brew cask install visual-studio-code
-brew cask install dropbox
 brew cask install 1password
 brew cask install caskroom/versions/firefox-developer-edition
-brew cask install now
-brew cask install sourcetree
-brew cask install spotify
 brew cask install docker
-brew cask install skyfonts
-brew cask install libreoffice
-brew cask install tableplus
+brew cask install dropbox
+brew cask install filezilla
+brew cask install google-chrome
+brew cask install iterm2
 brew cask install kitematic
+brew cask install libreoffice
+brew cask install now
+brew cask install skyfonts
+brew cask install skype
+brew cask install sourcetree
+brew cask install spectacle
+brew cask install spotify
+brew cask install steam
+brew cask install tableplus
+brew cask install tower
+brew cask install virtualbox
+brew cask install visual-studio-code
 npm i -g trash-cli
 # VSCode
 rm ~/Library/Application\ Support/Code/User/settings.json
