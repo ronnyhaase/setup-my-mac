@@ -11,7 +11,6 @@ brew install httpie
 brew install node
 brew install wget
 brew install yarn
-brew install watchman
 brew cask install google-chrome
 brew cask install spectacle
 brew cask install iterm2
@@ -40,6 +39,8 @@ code --install-extension wix.vscode-import-cost
 code --install-extension jpoissonnier.vscode-styled-components
 code --install-extension PeterJausovec.vscode-docker
 code --install-extension mikestead.dotenv
+code --install-extension dbaeumer.vscode-eslint
+
 # Mac settings, see https://github.com/kevinSuttle/macOS-Defaults
 # Show file extensions, and hiddenfiles in Finder
 defaults write NSGlobalDomain AppleShowAllExtensions -bool true
