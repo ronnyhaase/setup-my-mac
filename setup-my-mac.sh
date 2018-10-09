@@ -49,6 +49,8 @@ code --install-extension jpoissonnier.vscode-styled-components
 code --install-extension PeterJausovec.vscode-docker
 code --install-extension mikestead.dotenv
 code --install-extension dbaeumer.vscode-eslint
+code --install-extension msjsdiag.debugger-for-chrome
+code --install-extension hbenl.vscode-firefox-debug
 
 # Mac settings, see https://github.com/kevinSuttle/macOS-Defaults
 # Show file extensions, and hiddenfiles in Finder
