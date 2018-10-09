@@ -16,7 +16,7 @@ brew install watchman
 brew install wget
 brew install yarn
 brew cask install 1password
-brew cask install caskroom/versions/firefox-developer-edition
+brew cask install firefox
 brew cask install docker
 brew cask install dropbox
 brew cask install filezilla
