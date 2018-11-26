@@ -25,6 +25,7 @@ brew cask install iterm2
 brew cask install kitematic
 brew cask install libreoffice
 brew cask install now
+brew cask install protonvpn
 brew cask install skyfonts
 brew cask install skype
 brew cask install sourcetree
@@ -98,7 +99,6 @@ for app in "cfprefsd" \
 done
 
 # Manually:
-#   VPN Unlimited
 #   XCode
 # Github:
 #   Generate and add SSH keys, consider to delete old
