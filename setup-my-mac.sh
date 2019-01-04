@@ -21,6 +21,7 @@ brew cask install docker
 brew cask install dropbox
 brew cask install filezilla
 brew cask install google-chrome
+brew cask install java
 brew cask install iterm2
 brew cask install kitematic
 brew cask install libreoffice
