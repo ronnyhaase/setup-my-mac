@@ -37,6 +37,8 @@ brew cask install tableplus
 brew cask install virtualbox
 brew cask install visual-studio-code
 
+npm i -g fx
+npm i -g serve
 npm i -g trash-cli
 
 # VSCode
