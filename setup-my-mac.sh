@@ -34,10 +34,11 @@ brew cask install spectacle
 brew cask install spotify
 brew cask install steam
 brew cask install tableplus
-brew cask install tower
 brew cask install virtualbox
 brew cask install visual-studio-code
+
 npm i -g trash-cli
+
 # VSCode
 rm ~/Library/Application\ Support/Code/User/settings.json
 rm ~/Library/Application\ Support/Code/User/keybindings.json
