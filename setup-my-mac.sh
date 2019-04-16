@@ -12,6 +12,9 @@ brew tap caskroom/cask
 brew install git
 brew install httpie
 brew install node
+brew install pipenv
+brew install python
+brew install r
 brew install watchman
 brew install wget
 brew install yarn
