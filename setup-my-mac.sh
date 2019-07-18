@@ -2,8 +2,6 @@
 echo Setting up your Mac!
 echo Please make sure it does not go into sleep mode!
 
-# oh-my-zsh
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 # homebrew
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew update
@@ -41,6 +39,10 @@ brew cask install tableplus
 brew cask install virtualbox
 brew cask install visual-studio-code
 
+# oh-my-zsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
+# NPM
 npm i -g fx
 npm i -g serve
 npm i -g trash-cli
