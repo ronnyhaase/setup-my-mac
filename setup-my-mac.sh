@@ -7,8 +7,10 @@ echo Please make sure it does not go into sleep mode!
 brew update
 brew upgrade
 brew tap caskroom/cask
+brew tap mongodb/brew
 brew install git
 brew install httpie
+brew install mongodb-community-shell
 brew install node
 brew install pipenv
 brew install python
@@ -26,6 +28,7 @@ brew cask install java
 brew cask install iterm2
 brew cask install kitematic
 brew cask install libreoffice
+brew cask install mongodb-compass-community
 brew cask install now
 brew cask install postman
 brew cask install protonvpn
