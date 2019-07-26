@@ -47,6 +47,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 
 # NPM
 npm i -g fx
+npm i -g jay-repl
 npm i -g serve
 npm i -g trash-cli
 
