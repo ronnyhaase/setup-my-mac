@@ -66,6 +66,7 @@ code --install-extension mikestead.dotenv
 code --install-extension dbaeumer.vscode-eslint
 code --install-extension msjsdiag.debugger-for-chrome
 code --install-extension hbenl.vscode-firefox-debug
+code --install-extension pflannery.vscode-versionlens
 
 # Mac settings, see https://github.com/kevinSuttle/macOS-Defaults
 # Show file extensions, and hiddenfiles in Finder
