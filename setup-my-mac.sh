@@ -7,7 +7,9 @@ echo Please make sure it does not go into sleep mode!
 brew update
 brew upgrade
 brew tap caskroom/cask
+brew tap homebrew/cask-fonts
 brew tap mongodb/brew
+
 brew install git
 brew install httpie
 brew install mongodb-community-shell
@@ -18,6 +20,7 @@ brew install r
 brew install watchman
 brew install wget
 brew install yarn
+
 brew cask install 1password
 brew cask install firefox
 brew cask install docker
@@ -32,7 +35,6 @@ brew cask install mongodb-compass-community
 brew cask install now
 brew cask install postman
 brew cask install protonvpn
-brew cask install skyfonts
 brew cask install skype
 brew cask install sourcetree
 brew cask install spectacle
@@ -41,6 +43,11 @@ brew cask install steam
 brew cask install tableplus
 brew cask install virtualbox
 brew cask install visual-studio-code
+
+brew cask install font-lato
+brew cask install font-merriweather
+brew cask install font-open-sans
+brew cask install font-source-code-pro
 
 # oh-my-zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
@@ -117,12 +124,6 @@ done
 #   XCode
 # Github:
 #   Generate and add SSH keys, consider to delete old
-#
-# SkyFont fonts:
-#   Merriweather
-#   Open Sans
-#   Source Code Pro
-#
 #
 # System preferences (some can be scripted in future as well)
 #   Enable firewall
