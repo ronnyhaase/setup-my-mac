@@ -14,7 +14,6 @@ brew install git
 brew install httpie
 brew install mongodb-community-shell
 brew install node
-brew install pipenv
 brew install python
 brew install r
 brew install watchman
@@ -29,11 +28,9 @@ brew cask install filezilla
 brew cask install google-chrome
 brew cask install java
 brew cask install iterm2
-brew cask install kitematic
 brew cask install libreoffice
 brew cask install mongodb-compass-community
 brew cask install now
-brew cask install postman
 brew cask install protonvpn
 brew cask install skype
 brew cask install sourcetree
@@ -54,7 +51,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 
 # NPM
 npm i -g fx
-npm i -g jay-repl
 npm i -g serve
 npm i -g trash-cli
 
