@@ -41,6 +41,7 @@ brew cask install tableplus
 brew cask install virtualbox
 brew cask install visual-studio-code
 
+brew cask install font-jetbrains-mono
 brew cask install font-lato
 brew cask install font-merriweather
 brew cask install font-open-sans
