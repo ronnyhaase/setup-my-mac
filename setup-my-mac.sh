@@ -30,7 +30,6 @@ brew cask install java
 brew cask install iterm2
 brew cask install libreoffice
 brew cask install mongodb-compass-community
-brew cask install now
 brew cask install protonvpn
 brew cask install skype
 brew cask install sourcetree
@@ -54,6 +53,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 npm i -g fx
 npm i -g serve
 npm i -g trash-cli
+npm i -g netlify-cli
 
 # VSCode
 rm ~/Library/Application\ Support/Code/User/settings.json
