@@ -22,9 +22,9 @@ brew install yarn
 
 brew cask install 1password
 brew cask install firefox
+brew cask install cyberduck
 brew cask install docker
 brew cask install dropbox
-brew cask install filezilla
 brew cask install google-chrome
 brew cask install java
 brew cask install iterm2
