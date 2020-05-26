@@ -56,6 +56,13 @@ npm i -g serve
 npm i -g trash-cli
 npm i -g netlify-cli
 
+# vim
+mkdir -p ~/.vim/colors
+rm ~/.vimrc
+wget -O ~/.vimrc https://raw.githubusercontent.com/ronnyhaase/vimrc/master/.vimrc
+wget -O ~/.vim/colors/molokai.vim https://raw.githubusercontent.com/ronnyhaase/vimrc/master/.vim/colors/molokai.vim
+wget -O ~/.vim/colors/solarized.vim https://raw.githubusercontent.com/ronnyhaase/vimrc/master/.vim/colors/solarized.vim
+
 # VSCode
 rm ~/Library/Application\ Support/Code/User/settings.json
 rm ~/Library/Application\ Support/Code/User/keybindings.json
