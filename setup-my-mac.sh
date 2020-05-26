@@ -24,6 +24,7 @@ brew cask install 1password
 brew cask install firefox
 brew cask install cyberduck
 brew cask install docker
+brew install docker-machine
 brew cask install dropbox
 brew cask install google-chrome
 brew cask install java
