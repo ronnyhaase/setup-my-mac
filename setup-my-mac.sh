@@ -11,6 +11,7 @@ brew tap homebrew/cask-fonts
 brew tap mongodb/brew
 
 brew install git
+brew install gh
 brew install httpie
 brew install mongodb-community-shell
 brew install node
@@ -21,22 +22,23 @@ brew install wget
 brew install yarn
 
 brew cask install 1password
+brew cask install ableton-live-intro
 brew cask install firefox
 brew cask install cyberduck
 brew cask install docker
 brew install docker-machine
 brew cask install dropbox
 brew cask install google-chrome
+brew cask isntall jami
 brew cask install java
 brew cask install iterm2
 brew cask install libreoffice
+brew cask install microsoft-edge
 brew cask install mongodb-compass-community
 brew cask install protonvpn
-brew cask install skype
 brew cask install sourcetree
 brew cask install spectacle
 brew cask install spotify
-brew cask install steam
 brew cask install tableplus
 brew cask install virtualbox
 brew cask install visual-studio-code
